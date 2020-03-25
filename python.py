@@ -1,4 +1,1 @@
-def print_message(message):
-    print(message)
-
-print_message("Hello world")
+from flask import Flask
